@@ -1,0 +1,14 @@
+{
+  "name": "minimal-ts-array-issue-reproduce",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "eslint index.ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.36.1",
+    "@typescript-eslint/parser": "5.36.1",
+    "eslint": "8.23.0",
+    "preact": "10.10.6",
+    "typescript": "4.8.2"
+  }
+}
